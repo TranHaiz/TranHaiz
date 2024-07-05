@@ -6,17 +6,14 @@
 5. Current Position: Student
 6. Contact: tranhai002456@gmail.com
 7. [ Detailed information](https://drive.google.com/file/d/15JyVpaNCTUU0So3U89DALTCnwaln8its/view?usp=drive_link)
-8. Fact: Cat is cuteeeee
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100072639842796) 
 
 # 💻Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=TranHaiz&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TranHaiz&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TranHaiz&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## Fun Fact: Cat is cuteeeee 😾,😅I love Rock and I play guitar 🎸
 
 ### mim😻
 ![alt](https://static.printler.com/cache/8/e/1/a/0/c/8e1a0c16bf0c2cfa3bc131c209051cf5b64a2c46.jpg)
