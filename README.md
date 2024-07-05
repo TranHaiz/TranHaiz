@@ -1,7 +1,6 @@
 # 💫About Me :
 1. Field: Embedded Systems
-2. Recently, I have been learning about ASM programming with the [Stm32f103c8](https://drive.google.com/file/d/15JyVpaNCTUU0So3U89DALTCnwaln8its/view?usp=drive_link)
-3. I’m currently learning STM32F4 microcontroller in C
+2. Recently, I have been learning about ASM programming with the [Stm32f103c8](https://github.com/TranHaiz/Stm32f103c8-using-Assembly.git)
 4. Workplace: UTE
 5. Current Position: Student
 6. Contact: tranhai002456@gmail.com
