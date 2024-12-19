@@ -14,5 +14,5 @@
 
 ## Fun Fact: 😾,😅 n 🎸
 
-### mim😻
+### 😻
 ![alt](https://static.printler.com/cache/8/e/1/a/0/c/8e1a0c16bf0c2cfa3bc131c209051cf5b64a2c46.jpg)
