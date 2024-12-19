@@ -1,10 +1,9 @@
 # 💫About Me :
 1. Field: Embedded Systems
-2. Recently, I have been learning about ASM programming with the [Stm32f103c8](https://github.com/TranHaiz/Stm32f103c8-using-Assembly.git)
-4. Workplace: UTE
-5. Current Position: Student
-6. Contact: tranhai002456@gmail.com
-7. [ Detailed information](https://drive.google.com/file/d/15JyVpaNCTUU0So3U89DALTCnwaln8its/view?usp=drive_link)
+2. Workplace: UTE
+3. Current Position: Student
+4. Contact: tranhai002456@gmail.com
+5. [ Detailed information](https://drive.google.com/file/d/15JyVpaNCTUU0So3U89DALTCnwaln8its/view?usp=drive_link)
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100072639842796) 
