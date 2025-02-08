@@ -1,9 +1,10 @@
 # 💫About Me :
 1. Field: Embedded Systems
-2. Workplace: UTE
-3. Current Position: Student
-4. Contact: tranhai002456@gmail.com
-5. [ Detailed information](https://drive.google.com/file/d/15JyVpaNCTUU0So3U89DALTCnwaln8its/view?usp=drive_link)
+2. Embedded Systems Development: MCU Programming (STM32, etc.), Basic PCB Design
+3. Workplace: UTE
+4. Current Position: Student
+5. Contact: tranhai002456@gmail.com
+6. [ Detailed information](https://drive.google.com/file/d/15JyVpaNCTUU0So3U89DALTCnwaln8its/view?usp=drive_link)
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100072639842796) 
